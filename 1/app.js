@@ -1,4 +1,4 @@
-const nota = prompt("ingrese su edad");
+const nota = prompt("ingrese su nota");
 if (nota > 0) {
     if (nota < 3) {
         console.log("Muy deficiente");
